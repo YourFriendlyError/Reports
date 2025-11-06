@@ -1,0 +1,1 @@
+This repository contains sample security assessment reports completed during hands-on certification exam simulations. All sensitive or exam-specific details have been redacted or modified.
